@@ -1,0 +1,53 @@
+INOVAÇÃO EM GERENCIAMENTO DE PROJETOS
+Felipe Luis Ferreira Nascimento - 2° Período de Sistemas
+Guilherme Dantas Mendes - 1° Período - Sistemas
+
+PLANO DE DESENVOLVIMENTO DE UM SISTEMA ONLINE DE RESERVAS PARA HOTÉIS
+Teófilo Otoni, 2024
+
+Introdução
+A criação de um sistema de reservas online é fundamental no setor hoteleiro, uma vez que permite que os clientes realizem suas reservas de forma rápida e prática pela internet. Esse tipo de sistema visa melhorar a experiência do cliente e otimizar a operação interna dos hotéis, garantindo uma gestão mais eficaz da disponibilidade e do inventário de quartos. A seguir, são descritas as principais atividades a serem conduzidas em cada uma das fases do ciclo de vida de um projeto, que são supervisionadas pelo gestor para assegurar que os objetivos sejam atingidos com sucesso.
+
+1. Iniciação
+Na fase de iniciação, o gestor estabelece as bases do projeto, avaliando sua viabilidade e identificando o escopo inicial. As atividades incluem:
+
+Análise de Viabilidade: Verificar a necessidade e a viabilidade técnica e econômica do sistema de reservas online.
+Definição dos Objetivos: Identificar as metas principais, como otimizar o processo de reserva e melhorar a satisfação do cliente.
+Identificação das Partes Interessadas: Mapeamento dos envolvidos no projeto, como a equipe de TI, a gerência do hotel e fornecedores externos.
+Desenvolvimento do Termo de Abertura do Projeto (TAP): Criar um documento que formalize os objetivos do projeto e o comprometimento das partes interessadas.
+2. Planejamento
+No planejamento, o gestor de projetos detalha o escopo, organiza as etapas de desenvolvimento e define os recursos necessários. As principais atividades são:
+
+Definição do Escopo Detalhado: Estabelecer as funcionalidades do sistema, como a busca de quartos, pagamentos online e envio de confirmações automáticas.
+Estrutura Analítica do Projeto (EAP): Dividir o projeto em etapas, como design, desenvolvimento, testes e lançamento.
+Elaboração do Cronograma: Definir o cronograma para organizar as fases do projeto.
+Estimativa de Custos e Orçamento: Calcular os custos e aprovar o orçamento com os stakeholders.
+Planejamento da Qualidade: Definir padrões de qualidade para o sistema.
+Gestão de Riscos: Identificar e planejar respostas para riscos potenciais.
+Planejamento de Comunicação: Estabelecer os métodos de comunicação entre equipe, gestor e stakeholders.
+3. Execução
+Na fase de execução, as atividades planejadas são colocadas em prática. O gestor acompanha o progresso e assegura o cumprimento dos requisitos. As principais atividades são:
+
+Coordenação da Equipe: Monitorar o desenvolvimento, design e integração do sistema.
+Supervisão de Fornecedores: Acompanhar fornecedores para garantir a entrega de componentes como gateways de pagamento.
+Gestão de Recursos e Conflitos: Alocar recursos de maneira eficiente e resolver eventuais conflitos.
+Controle de Qualidade: Realizar testes intermediários para garantir que o sistema atende aos padrões de qualidade.
+4. Monitoramento e Controle
+Durante a execução, o gestor monitora o progresso e faz ajustes conforme necessário. As atividades incluem:
+
+Acompanhamento do Progresso: Verificar o cumprimento do cronograma e do orçamento.
+Gestão de Mudanças: Avaliar e gerenciar solicitações de mudança no escopo.
+Análise e Revisão de Riscos: Atualizar o plano de riscos conforme o avanço do projeto.
+Garantia de Qualidade: Realizar auditorias e testes de usabilidade para assegurar a funcionalidade do sistema.
+Feedback dos Stakeholders: Coletar feedback e implementar ajustes antes da conclusão.
+5. Encerramento
+A fase de encerramento finaliza o projeto e formaliza a entrega do sistema. As principais atividades são:
+
+Entrega do Sistema: Validar e entregar oficialmente o sistema aos stakeholders.
+Documentação Final: Compilar e entregar toda a documentação necessária, incluindo manuais e relatórios técnicos.
+Treinamento do Cliente: Oferecer treinamento para a equipe do hotel no uso do sistema.
+Avaliação dos Resultados: Analisar os resultados do projeto em relação aos objetivos iniciais, custos e prazos.
+Encerramento Administrativo e Financeiro: Finalizar contas e contratos com fornecedores.
+Relatório de Encerramento e Lições Aprendidas: Documentar as lições aprendidas para uso em futuros projetos.
+Conclusão
+A implementação de um sistema de reservas online requer um planejamento meticuloso e monitoramento constante para garantir que o projeto atenda plenamente às expectativas dos clientes e às necessidades do mercado hoteleiro. Esse processo estruturado contribui para a eficiência da operação do hotel e para uma experiência mais satisfatória do usuário final.
